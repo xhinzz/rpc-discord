@@ -1,5 +1,7 @@
 # rpc-discord
 
+![Image 0](https://imgur.com/Vk63OKt.png) ![Image 00](https://imgur.com/9PAqYtb.png)
+
 **Easy RPC Discord with buttons**
 
 Go to main.js file and past our client ID, buttons, images, etc..
