@@ -34,7 +34,7 @@ buttons : [{label : "button1_text" , url : "link_button1_here"},{label : "button
 
 })
 })
-client.login({ clientId : "512746125909032961" }).catch(console.error); // your app id
+client.login({ clientId : "clientID" }).catch(console.error); // your app id
 setTimeout(function () {
 console.log("\x1b[32m%s\x1b[0m", `[Log]`, "\x1b[31m", `[logado] Rich presence logado com sucesso.`)
 }, 10500)
